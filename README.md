@@ -72,8 +72,13 @@
         <h4>Match Results</h4>
         <ul>
             <li>Match 1: Team A 2 - Team B 1</li>
-            <li>Match 2: Team C 0 - Team D 0 (Draw)</li>
-    </section>
+           <li>Match 2: Team C 0 - Team D 0 (Draw)</li>
+   <h3>Livescore</h3>
+        <p>Check out the latest live scores:</p>
+        <ul>
+            <li><a href="link-to-football-livescore-page.html">Premier League</a></li>
+            <li><a href="link-to-football-livescore-page.html">La Liga</a></li>
+        </section>
     <section id="netball">
         <h2>Netball</h2>
         <p>Explore the latest updates, tournaments, and insights into the exciting world of netball.</p>
